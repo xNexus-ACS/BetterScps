@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Better106", "Better106\Better106.csproj", "{5DFA0960-C9F9-4664-88B9-7E1BC339F438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Better049", "Better049\Better049.csproj", "{62D45581-0C33-4968-B851-D6681993FF43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Better268", "Better268\Better268.csproj", "{4179545F-2DC5-4D07-89A1-EBB72012210F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFA0960-C9F9-4664-88B9-7E1BC339F438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFA0960-C9F9-4664-88B9-7E1BC339F438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFA0960-C9F9-4664-88B9-7E1BC339F438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFA0960-C9F9-4664-88B9-7E1BC339F438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D45581-0C33-4968-B851-D6681993FF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D45581-0C33-4968-B851-D6681993FF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D45581-0C33-4968-B851-D6681993FF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D45581-0C33-4968-B851-D6681993FF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4179545F-2DC5-4D07-89A1-EBB72012210F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4179545F-2DC5-4D07-89A1-EBB72012210F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4179545F-2DC5-4D07-89A1-EBB72012210F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4179545F-2DC5-4D07-89A1-EBB72012210F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
