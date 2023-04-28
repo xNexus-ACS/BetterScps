@@ -5,7 +5,7 @@ using NorthwoodLib.Pools;
 
 namespace Better268.Patches;
 
-[HarmonyPatch(typeof(PlayerInteract))]
+[HarmonyPatch(typeof(PlayerInteract), nameof(PlayerInteract.OnInteract))]
 internal static class InvisibleInteract
 {
     [HarmonyTranspiler]
